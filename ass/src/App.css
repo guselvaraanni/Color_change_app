@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+header{
+  background-color: black;
+  color: beige;
+  height: 60px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.Content{
+  color: black;
+}
+textarea{
+  
+  font-size: 29px;
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  
+  padding-top: 10px;
+  margin-top: 20px;
+}
